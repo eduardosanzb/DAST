@@ -33,12 +33,15 @@ The User flow
   * This **social-broadcasting** will issue a notification to all the users who were had a **social check-in** with *Randy* in the last 4 days (or wathever),
   asking them to perform a COVID test.
 
-### Products
-Mobile app:
+## Products
+### Mobile app
 Super simple app, just a QR code with your DAID (Digital Anonymous Id) and the camera open side-by-side to scan the other person DAID.
 
-Certified broadcaster:
+![DAST_home](https://github.com/eduardosanzb/DAST/blob/master/public/Mobile_home.png?raw=true)
+![DAST_notification](https://github.com/eduardosanzb/DAST/blob/master/public/Mobile_notification.png?raw=true)
+
+### Certified broadcaster
 A certified web-app which will allow to start a **social-broadcasting**.
 
-The architecture:
+### The architecture
 TODO
