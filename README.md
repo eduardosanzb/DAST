@@ -25,6 +25,11 @@ Which given the current situation, is actually necessary to keep tracking and av
 Nevertheless, in the western world, we are keen to protect our privacy, How can we get the same benefits as the chinese people but maintain our western/free society perks.
 The proposed solution will give some of those benefits as social interaction and geographical tracking as warning broadcasting, while maintaining our privacy and ensuring transparent and un-centralized data.
 
+#### Proposed stack
+* Hyperledger Fabric for the ledger
+* Graphql/REST interface for the contract interation
+* Mobile app (cordova/flutter/react native)
+
 The User flow
 * *Randy* downloads and install the DAST app, which will create his Digital Anonymous Id (DAID)
 * *Randy* continues with his normal life, when he engages in a social interaction will need to do a **social check-in**
